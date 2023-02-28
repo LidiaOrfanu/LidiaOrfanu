@@ -1,13 +1,13 @@
 ### Hei hei! 👋
 
-My name is Lidia Orfanu. I am a .NET / Azure software developer working for </SALT>.
+My name is Lidia Orfanu. I am a .NET / Azure software developer working for SALT Oslo.
 <br>
 
 I am also continuing my studies in parralel with my work, for [42 Wolfsburg](https://42wolfsburg.de/).
 
 
 - 🌱 I’m currently learning about **internet relay chats** and trying to build my own IRC server in C++.
-- I am also trying to finish the </SALT> bootcamp (https://www.salt.study/our-hubs/oslo/code-bootcamps)
+- I am also trying to finish the SALT Oslo bootcamp (https://www.salt.study/our-hubs/oslo/code-bootcamps)
 
 <h3 align="left">Languages and Tools:</h3>
 
