@@ -17,7 +17,5 @@ I am also continuing my studies in parralel with my work, for [42 Wolfsburg](htt
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"></code>
 <br>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
-<code><img height="30" src="https://symbols.getvecta.com/stencil_27/57_logic-apps.82ee97a54f.jpg"></code>
 <code><img height="30" src="https://btp.udina.de/icons/azure/functions.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://symbols.getvecta.com/stencil_28/71_virtual-network.8cd684329b.svg"></code>
+
