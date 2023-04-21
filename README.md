@@ -10,3 +10,5 @@
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
 <code><img height="30" src="https://btp.udina.de/icons/azure/functions.svg"></code>
 
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/lidiaorfanu/)
