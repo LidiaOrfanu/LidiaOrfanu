@@ -1,5 +1,8 @@
 ### Hei hei! 👋
 
+I'm Lidia - I'm from 🇷🇴, relocated in Oslo 🇳🇴
+I’m currently a FullStack Consultant available for hire at </salt> https://www.salt.dev/
+
 <h3 align="left">Languages and Tools:</h3>
 
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
