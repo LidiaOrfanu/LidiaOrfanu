@@ -17,7 +17,7 @@ I’m currently a FullStack Consultant available for hire at </salt> https://www
 Hei hei! <br>
 I'm Lidia 🐧 <br>
 I am a fullstack .NET developer from Romania 🇷🇴, living in Oslo 🇳🇴 <br>
-Started my coding journey at 42 Wolfsburg (dabbled around with pointers, had "fun" with the memory leaks in C-land then moved in the OOP world with C++)
+Started my coding journey at 42 Wolfsburg (dabbled around with pointers, had "fun" with the memory leaks in C-land then moved in the OOP world with C++)<br>
 I graduated from School of applied technology's bootcamp April 2023 <a href="https://www.salt.dev/" target="_blank">< /salt ></a> 🧂<br>
 Apart from programming, I have a background in Finance & Busines Ops <br>
 I enjoy playing a good board game, movies & chit-chatting with friends about nothing and everything ❤️<br>
