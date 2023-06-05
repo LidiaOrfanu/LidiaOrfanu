@@ -3,16 +3,6 @@
 </div>
 
 ### 👩‍💻 About Me : 
-### 
-
-<p align="left">
-I'm Lidia 🐧 - I'm from Bucharest(Romania), currently living in Oslo 
-</p>
-<p align="left">
-I’m currently a FullStack Consultant available for hire at </salt> https://www.salt.dev/
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
 <p>
 Hei hei! <br>
 I'm Lidia 🐧 <br>
